@@ -40,10 +40,11 @@ void saveUser(User user) {
 ---
 
 ### 2. **Short Functions**
-> The shorter, the better. Aim for 5–15 lines max.
+> The shorter, the better. Aim for 5–20 lines max.
 
 Split long functions into smaller, named chunks that describe what they do.
 
+Note: build methods can be longer than this, but try to keep them between 20 to 100 lines.
 ---
 
 ### 3. **Descriptive Names**
